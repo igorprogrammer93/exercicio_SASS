@@ -1,0 +1,9 @@
+body {
+    background-color: $background-color;
+}
+
+.container {
+    max-width: $container-max-width;
+    width: 100%;
+    margin: 0 auto;
+}
